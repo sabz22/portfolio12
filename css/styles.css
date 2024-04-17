@@ -1,0 +1,84 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:wght@300;400&display=swap');
+
+/* Body and overall font styling */
+body, html {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FFF0F5; /* Lighter pink */
+    color: #333;
+    margin: 0;
+    padding-top: 2rem;
+}
+
+/* Navigation bar styling */
+.navbar-custom {
+  background-color: #FFD1DC; /* Light pink - keep the background the same */
+}
+
+/* Navigation links */
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+  color: #663399; /* Darker purple for better readability */
+}
+
+
+/* Home Section styling */
+#home {
+  background-color: #FFF0F5; /* Lavender blush - keep the background the same */
+}
+
+/* Darker font color for better readability */
+#home h1, 
+#home .lead, 
+#home p {
+  color: #4A235A; /* Dark purple for contrast */
+}
+
+
+/* Skills Section styling */
+#skills {
+  background-color: #FFF0F5; 
+}
+
+
+
+
+/* Profile image styling */
+.profile-img {
+  border: 5px solid #E6B0C3; /* Light purple */
+}
+
+/* Button styling for more feminine appeal */
+.btn-primary {
+  background-color: #FFB6C1; /* Light pink */
+  border-color: #FFB6C1; /* Light pink border */
+}
+
+.btn-primary:hover {
+  background-color: #faa6e4; /* Lighter pink */
+}
+
+/* Social icons styling */
+.social-links a {
+  color: #E6B0C3; /* Soft purple */
+}
+
+.social-links a:hover {
+  color: #FFB6C1; /* Light pink */
+}
+
+/* Footer styling */
+
+.footer-custom {
+  background-color: #C897B2; /* Soft plum */
+  color: #fff;
+}
+
+
+/* Section titles styling */
+.section-title {
+  font-family: 'Montserrat', sans-serif;
+  color: #6a4c93; /* Plum */
+  font-weight: 700;
+}
+
